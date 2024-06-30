@@ -1,3 +1,5 @@
+#calm wind spa
+
 calmWindSpa is a project for an Object-Oriented Programming (OOP) course. It implements various OOP concepts such as classes, objects, encapsulation, polymorphism, and interfaces.
 
 1. Classes: Classes are blueprints for creating objects. In this project, classes could include "User", "Customer", "Employee", "Service", etc. Each class represents a specific entity in the system.
@@ -11,3 +13,19 @@ calmWindSpa is a project for an Object-Oriented Programming (OOP) course. It imp
 5. Interfaces: Interfaces define a contract for what methods a class must implement without providing the implementation details. In this project, an interface could be defined for services, specifying methods like "displayAvailableServices()" and "bookService()". Different classes representing types of services can implement this interface to provide their specific implementations.
 
 Also, calmWindSpa system allows users to create accounts, select their role (customer or employee), and based on their role, they can access different functionalities such as viewing available services, booking appointments, etc. OOP concepts are applied throughout the project to organize and structure the code effectively.
+
+##Tools:
+- Programming language ​​used: Java
+- IDE: Netbeans
+
+##Documentation:
+- [Report](https://github.com/RubaBalubaid/spaManagementSystem/blob/master/spadocument.pdf)
+- [Presentation](https://github.com/RubaBalubaid/spaManagementSystem/blob/master/spaPresentation.pdf)
+
+##Authors:
+- Ruba Balubaid
+- Esraa Alamoudi
+- Jenan Mustafa
+- Teif Aldadi
+- Shahad Alharbi
+
